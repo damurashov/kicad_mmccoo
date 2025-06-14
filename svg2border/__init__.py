@@ -1,2 +1,0 @@
-
-import svg2border
